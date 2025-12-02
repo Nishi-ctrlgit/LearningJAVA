@@ -4,7 +4,7 @@ Documenting my path from Java basics to advanced practice through projects and e
  Welcome to my personal Java learning repository!
  This space documents my growth as I explore Java step-by-step — from fundamentals to advanced concepts, supported by hands-on practice and mini projects.
 
-##🚀 About This Repo
+## 🚀 About This Repo
  This repository is my structured and well-organized Java learning path.
  It contains:
  - 🌱 Clean, beginner-friendly programs
@@ -26,16 +26,16 @@ Documenting my path from Java basics to advanced practice through projects and e
 - ✔️ Experiments while learning new concepts
 
 ## 🛠️ Technologies Used
->>-- Java (JDK 21)
->>-- IntelliJ IDEA
+- Java (JDK 21)
+- IntelliJ IDEA
 
 ## -🎯 Goal of This Repo
 To stay consistent, practice regularly, and build a strong foundation in Java by writing real code every day.
 This repo helps me track my progress and stay disciplined in my learning journey.
 
 ## 🚧 Future Additions
---> Add DSA practice solutions
---> Add more real world mini-projects
---> Add advanced Java topics: Collections, Streams, Exception Handling and other advanced topics
---> Add revision-friendly summaries
---> Improve code quality and documentation
+>- Add DSA practice solutions
+>- Add more real world mini-projects
+>- Add advanced Java topics: Collections, Streams, Exception Handling and other advanced topics
+>- Add revision-friendly summaries
+>- Improve code quality and documentation
