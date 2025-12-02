@@ -1,8 +1,8 @@
 # LearningJAVA
 Documenting my path from Java basics to advanced practice through projects and exercises.
 
-Welcome to my personal Java learning repository!
-This space documents my growth as I explore Java step-by-step — from fundamentals to advanced concepts, supported by hands-on practice and mini projects.
+ Welcome to my personal Java learning repository!
+ This space documents my growth as I explore Java step-by-step — from fundamentals to advanced concepts, supported by hands-on practice and mini projects.
 
 🚀 About This Repo
  This repository is my structured and well-organized Java learning path.
@@ -12,7 +12,7 @@ This space documents my growth as I explore Java step-by-step — from fundament
  🌱 Mini projects to apply knowledge
  🌱 Practice exercises to improve logic
 
-Experiments as I explore new areas of Java
+ Experiments as I explore new areas of Java
 📌 What This Repository Includes
 ✔️ Java Basics (syntax,understanding of variables,data types, loops, conditionals,references)
 ✔️ About main() method in java
