@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2a49f00-0e49-4797-814d-96f80b0a4dee" name="Changes" comment="" />
+    <list default="true" id="f2a49f00-0e49-4797-814d-96f80b0a4dee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JAVA MAIN/src/Day-03-java/WhatIsInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/Constructor/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/Constructor/DemoConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/Constructor/DemoRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/InputByBuffer/Days.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/InputByBuffer/NumberOfStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/InputByBuffer/Pf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/ObjectClass/Biscuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/ObjectClass/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/ObjectClass/DemoBiscuitClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/ObjectClass/DemoCarClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-java/src/UsingScannerClass/num.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearningJAVA.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36IDaox4sPAA7653UONOzMhXQoJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,18 +52,115 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CharacterSorP.executor": "Run",
+    "Application.Deposit.executor": "Run",
+    "Application.Diagonal (1).executor": "Run",
+    "Application.Diagonal.executor": "Run",
+    "Application.Discount.executor": "Run",
+    "Application.ElectricityBill.executor": "Run",
+    "Application.EnteringNumber.executor": "Run",
+    "Application.Grades.executor": "Run",
+    "Application.HowManyDigits.executor": "Run",
+    "Application.MaxAndMin.executor": "Run",
+    "Application.Pos_evenVSNeg_odd.executor": "Run",
+    "Application.PossibleTriangle.executor": "Run",
+    "Application.Postive_EVENvsNegative_ODD.executor": "Run",
+    "Application.Program1.executor": "Run",
+    "Application.QuadraticEquation.executor": "Run",
+    "Application.Result.executor": "Run",
+    "Application.StudyMethod.executor": "Run",
+    "Application.TaxiRent.executor": "Run",
+    "Application.ViewOfMathClass.Diagonal.executor": "Run",
+    "Application.Volume_Of_Solids.executor": "Run",
+    "Application.WhatIsInterface.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Vijaypal/OneDrive/Desktop/LearningJAVA",
+    "last_opened_file_path": "C:/Users/Vijaypal/Desktop/LearningJAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.WhatIsInterface">
+    <configuration name="Deposit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCasePrograms.Deposit" />
+      <module name="LearningJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwitchCasePrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCasePrograms.Program1" />
+      <module name="LearningJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwitchCasePrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaxiRent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals.TaxiRent" />
+      <module name="LearningJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditionals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Volume_Of_Solids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCasePrograms.Volume_Of_Solids" />
+      <module name="LearningJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SwitchCasePrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatIsInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhatIsInterface" />
+      <module name="LearningJAVA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhatIsInterface" />
+        <item itemvalue="Application.TaxiRent" />
+        <item itemvalue="Application.Volume_Of_Solids" />
+        <item itemvalue="Application.Program1" />
+        <item itemvalue="Application.Deposit" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,6 +177,9 @@
       <option name="presentableId" value="Default" />
       <updated>1764685259603</updated>
       <workItem from="1764685262205" duration="81000" />
+      <workItem from="1764700170703" duration="1105000" />
+      <workItem from="1764729328123" duration="22189000" />
+      <workItem from="1764849445314" duration="1272000" />
     </task>
     <servers />
   </component>

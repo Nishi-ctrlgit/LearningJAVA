@@ -5,25 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1eb41d04-4680-487a-985c-e03a06649d8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor/DemoConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constructor/DemoRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputByBuffer/Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputByBuffer/NumberOfStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InputByBuffer/Pf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectClass/Biscuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectClass/DemoBiscuitClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectClass/DemoCarClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsingScannerClass/num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/Constructor/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/Constructor/DemoConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/Constructor/DemoRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/InputByBuffer/Days.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/InputByBuffer/NumberOfStudents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/InputByBuffer/Pf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/ObjectClass/Biscuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/ObjectClass/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/ObjectClass/DemoBiscuitClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/ObjectClass/DemoCarClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day01-java/src/UsingScannerClass/num.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -78,10 +76,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Vijaypal/OneDrive/Desktop/JAVA BASICS/first-java/src/Constructor",
+    "last_opened_file_path": "C:/Users/Vijaypal/Desktop/LearningJAVA/JAVA MAIN",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -192,6 +191,7 @@
       <workItem from="1764596497336" duration="733000" />
       <workItem from="1764604452722" duration="16342000" />
       <workItem from="1764671248330" duration="6768000" />
+      <workItem from="1764700123800" duration="29000" />
     </task>
     <servers />
   </component>
