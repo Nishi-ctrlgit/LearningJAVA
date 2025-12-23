@@ -6,23 +6,23 @@ Documenting my path from Java basics to advanced practice through projects and e
 - 🚀 About This Repo
 This repository is my structured and well-organized Java learning path. It contains:
 
- 🌱 Clean, beginner-friendly programs
- 🌱 Concept-based folders
- 🌱 Mini projects to apply knowledge
- 🌱 Practice exercises to improve logic
- 🌱Experiments as I explore new areas of Java
+ -🌱 Clean, beginner-friendly programs
+ -🌱 Concept-based folders
+ -🌱 Mini projects to apply knowledge
+ -🌱 Practice exercises to improve logic
+ -🌱Experiments as I explore new areas of Java
 
 - 📌 What This Repository Includes
-- ✔️ Java Basics (syntax,understanding of variables,data types, loops, conditionals,references)
-- ✔️ About main() method in java
-- ✔️ Understanding classes and objects,type of classes,Constructors,references in java)
-- ✔️ Methods(return type,static method,method parameters,pass by value,pass by reference,method overloading)
-- ✔️ String Class(immutability and string pooling)
-- ✔️ Access specifiers
-- ✔️ OOP Concepts (abstraction,inheritance, polymorphism, encapsulation)
-- ✔️ Practice Programs & Coding Exercises
-- ✔️ Beginner-friendly Java mini-projects
-- ✔️ Experiments while learning new concepts
+-✔️ Java Basics (syntax,understanding of variables,data types, loops, conditionals,references)
+-✔️ About main() method in java
+-✔️ Understanding classes and objects,type of classes,Constructors,references in java)
+-✔️ Methods(return type,static method,method parameters,pass by value,pass by reference,method overloading)
+-✔️ String Class(immutability and string pooling)
+-✔️ Access specifiers
+-✔️ OOP Concepts (abstraction,inheritance, polymorphism, encapsulation)
+-✔️ Practice Programs & Coding Exercises
+-✔️ Beginner-friendly Java mini-projects
+-✔️ Experiments while learning new concepts
 
   - 🛠️ Technologies Used
   - Java (JDK 21)
