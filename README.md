@@ -4,10 +4,10 @@ Documenting my path from Java basics to advanced practice through projects and e
  Welcome to my personal Java learning repository! This space documents my growth as I explore Java step-by-step — from fundamentals to advanced concepts, supported by hands-on practice and mini projects.
 
 - 🚀 About This Repo
-This repository is my structured and well-organized Java learning path. It contains:
+- This repository is my structured and well-organized Java learning path. It contains:
 
- - 🌱 Clean, beginner-friendly programs
- - 🌱 Concept-based folders
+ /- 🌱 Clean, beginner-friendly programs
+ /- 🌱 Concept-based folders
  - 🌱 Mini projects to apply knowledge
  - 🌱 Practice exercises to improve logic
  - 🌱Experiments as I explore new areas of Java
