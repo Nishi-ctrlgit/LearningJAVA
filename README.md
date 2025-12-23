@@ -24,7 +24,7 @@ Documenting my path from Java basics to advanced practice through projects and e
 ✔️ Beginner-friendly Java mini-projects  
  ✔️ Experiments while learning new concepts  
 
-  - 🛠️ Technologies Used
+🛠️ Technologies Used
   - Java (JDK 21)
   -  IntelliJ IDEA
 
@@ -32,8 +32,8 @@ Documenting my path from Java basics to advanced practice through projects and e
  To stay consistent, practice regularly, and build a strong foundation in Java by writing real code every day. This repo helps me track my progress and stay disciplined in my learning journey.
 
 🚧 Future Additions
-   Add DSA practice solutions
-   Add more real world mini-projects
-   Add advanced Java topics: Collections, Streams, Exception Handling and other advanced topics
-  - Add revision-friendly summaries
-  - Improve code quality and documentation
+   Add DSA practice solutions  
+   Add more real world mini-projects  
+   Add advanced Java topics: Collections, Streams, Exception Handling and other advanced topics  
+   Add revision-friendly summaries  
+   Improve code quality and documentation  
