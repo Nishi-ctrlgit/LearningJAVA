@@ -1,4 +1,4 @@
-package Encapsulation;
+package Encapsulation.Data_Binding;
 import java.util.Scanner;
 
 public class StudentRecordManagement {

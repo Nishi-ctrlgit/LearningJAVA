@@ -1,4 +1,4 @@
-package Encapsulation;
+package Encapsulation.Data_Binding;
 
 public class DuplicateStudentRecordManagement {
 

@@ -1,4 +1,4 @@
-package Encapsulation;
+package Encapsulation.Data_Binding;
 
 public class Student{// This is a DATA TRANSFER CLASS
     public String name;
