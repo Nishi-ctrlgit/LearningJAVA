@@ -1,7 +1,7 @@
 package Encapsulation.Data_Hiding;
 import java.util.Scanner;
 
-public class InstagramAcc {
+public class InstagramAcc {//This is a Data Transfer Class
     private String username;
     private String emailID;
     private String password;
@@ -11,19 +11,22 @@ public class InstagramAcc {
 
     Scanner sc = new Scanner(System.in);
 
+    //Using setter methods/mutator to access the data items
     public void setUsername(String username) {
         this.username = username;
     }
 
     public void setEmailID(String emailID) {
         this.emailID = emailID.toLowerCase();
-        while (true) {
-            System.out.print("Enter your emailID : ");
+        while (true) {//the loop continues till you eneter a Valid Email Address
+            System.out.print("Enter your emailID : ");//this key is taken to ensure security purpose
             String key = sc.next();
             key = key.toLowerCase();
 
-            //“kya poori key string ek valid Gmail ID ke pattern se match karti hai?”match() compares the whole string
-           // jab match NA kare tab invalid bolo
+            //Does the whole string(key) matches a valid Gmail ID pattern? Yes or NO?
+            //if it doesn't match, invalid email id
+            // match() compares the whole string at once
+
             if (!key.matches("^[a-zA-Z0-9._%+-]+@gmail\\.com$")) {
                 System.out.println("Invalid Email ID, Retry.");
                 continue;
@@ -64,7 +67,7 @@ public class InstagramAcc {
         this.following = following;
     }
 
-
+    //Using getter methods/Accessors
     public String getUsername() {
         return username;
     }

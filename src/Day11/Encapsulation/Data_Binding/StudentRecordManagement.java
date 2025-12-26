@@ -43,12 +43,7 @@ public class StudentRecordManagement {
         child.address = address;
         child.Result_status = Result_status;
 
-
-
-
-
-
-// Calling of the method to print the values
+        // Calling of the method to print the values
        DuplicateStudentRecordManagement.print(child);
 
     }
