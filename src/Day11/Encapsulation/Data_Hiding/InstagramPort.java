@@ -22,12 +22,12 @@ public class InstagramPort {
 
         InstagramAcc acc = new InstagramAcc();
 
-        acc.username=username;
-        acc.emailID=emailID;
-        acc.password=password;
-        acc.posts=posts;
-        acc.followers=followers;
-        acc.following=following;
+        acc.setUsername(username);
+        acc.setEmailID(emailID);
+        acc.setPassword(password);
+        acc.setPosts(posts);
+        acc.setFollowers(followers);
+        acc.setFollowing(following);
 
 
         InstagramAccCopy.display(acc);
