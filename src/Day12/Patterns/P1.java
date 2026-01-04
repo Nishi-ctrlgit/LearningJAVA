@@ -6,8 +6,8 @@ public class P1 {
         {
             for(int j=1;j<=i;j++)
             {
-                System.out.print(i + "\n");
-                System.out.print(" ");
+                System.out.print(i+"\t");
+                System.out.print("");
             }
         }
     }
